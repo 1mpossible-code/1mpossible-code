@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on better time management routine 🧘🏻‍♂️<br>👯 I’m looking to collaborate on developing my skills. It is always interesting to learn something new 📚<br>🤝 I’m looking for help with new project ideas and more people to learn from 😁<br>🌱 I’m currently learning Machine Learning and AI. Yes, I want to get into this field as well (:<br>💬 Ask me about my path as Software Developer 🥷<br>⚡ Fun fact. I won my first competitive coding competitions at 12 👀
+🔭 I’m currently working on better time management routine 🧘🏻‍♂️<br>👯 I’m looking to collaborate on enhancing the skills. It is always so interesting to learn something new 📚<br>🤝 I’m looking for help with new project ideas and more people to learn from 😁<br>🌱 I’m currently learning Machine Learning and AI. Yes, I want to get into this field as well (:<br>💬 Ask me about my path as Software Engineer 🥷<br>⚡ Fun fact. I won my first competitive coding competitions at 12 👀
 
 
 # 💻 Tech Stack:
