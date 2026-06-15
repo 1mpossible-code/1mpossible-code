@@ -23,7 +23,6 @@ PR](https://github-latest-links.linme00p.workers.dev/u/1mpossible-code/latest/pr
 
 ## Connect
 
-- [Portfolio](https://1mpossible-code.github.io/)
+- [Website](https://yemel.me)
 - [LinkedIn](https://www.linkedin.com/in/maksym-yemelianenko/)
 - [Email](mailto:max@yemel.me)
-- [Website](https://yemel.me)
